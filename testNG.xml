@@ -8,7 +8,7 @@
 
 <test name="Regression1">
     <classes>
-<!--        <class name="parameterization" />-->
+        <class name="parameterization" />
 <!--        <class name="HomeTest" />-->
 <!--        <class name="ActionsTest" />-->
         <class name="AlertTest" />
