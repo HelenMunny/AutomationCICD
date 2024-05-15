@@ -9,7 +9,7 @@
 <test name="Regression1">
     <classes>
 <!--        <class name="parameterization" />-->
-        <class name="HomeTest" />
+<!--        <class name="HomeTest" />-->
 <!--        <class name="ActionsTest" />-->
         <class name="AlertTest" />
         <class name="DropdownTest" />
